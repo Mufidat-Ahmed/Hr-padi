@@ -501,6 +501,13 @@ header {
     gap: 30px;
 }
 
+.why-card.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 30px;
+}
+
 .why-card {
     background-color: #f1f1f1;
     padding: 20px;
